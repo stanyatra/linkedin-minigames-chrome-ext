@@ -1,0 +1,1 @@
+console.log("Mini Sudoku content script loaded");
