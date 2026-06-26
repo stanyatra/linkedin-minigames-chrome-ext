@@ -1,0 +1,1 @@
+console.log("Tango content script loaded");
